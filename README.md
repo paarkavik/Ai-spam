@@ -1,1 +1,1 @@
-# Ai-spam
+The spam classification dataset is a collection of messages specifically created for training and testing artificial intelligence models to accurately classify spam and non-spam messages. It includes a diverse range of real-world examples, is large and balanced, and incorporates features extracted from the messages to enhance the model's accuracy. User feedback is also considered, and the dataset is continuously updated to keep up with evolving spam techniques.
